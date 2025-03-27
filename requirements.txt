@@ -1,0 +1,13 @@
+streamlit
+numpy
+matplotlib
+scipy
+pandas
+yfinance
+plotly
+lxml
+requests
+altair
+pdfkit
+reportlab
+datetime
