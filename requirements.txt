@@ -10,8 +10,3 @@ requests
 altair
 pdfkit
 reportlab
-datetime
-feedparser
-tempfile
-statsmodels
-fpdf
